@@ -1,4 +1,4 @@
-<h1 align="center">~~expert~~computeruser</h1>
+<h1 align="center">computer user</h1>
 
 im not actually an expert
 
